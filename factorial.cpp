@@ -1,3 +1,4 @@
+// Write a function to calculate the factorial value of any integer as an argument.
 #include <iostream>
 
 int main (){
